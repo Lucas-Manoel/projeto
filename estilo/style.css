@@ -43,27 +43,27 @@ header{
 header > h1{
     color: white;
     font-family: var(--fonte-destaque);
-    font-size: 3.5em;
+    font-size: 2.5em;
     font-weight: normal;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.164);
 }
 header > p{
     font-family: var(--fonte-padrao);
-    font-size: 1.5em;
+    font-size: 1.2em;
     color: white;
     max-width: 600px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.116);
 }
 nav{
     background-color: var(--cor5);
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.192);
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 nav > a {
     color: var(--cor1);
@@ -96,12 +96,12 @@ main h1{
     color: var(--cor5);
     font-family: var(--fonte-android);
     font-weight: normal;
-    font-size: 1.9em;
+    font-size: 1.5em;
 }
 main h2{
     font-family: var(--fonte-android);
     color: var(--cor4);
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: normal;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 8px;
@@ -110,7 +110,7 @@ main p{
     margin: 15px 0px;
     text-align: justify;
     text-indent: 30px;
-    font-size: 1.5em;
+    font-size: 1.2em;
     line-height: 2em;
 }
 main strong{
